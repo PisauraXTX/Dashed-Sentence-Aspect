@@ -1,0 +1,145 @@
+Experiment,Sentence,Item,Condition,Question,AnswerL,AnswerR,Correct
+MovingProc8,The architect/built/the monument/for two years/after/the city/had finally provided/the money for it.,1,1,What did the city provide money for?,A monument,A gallery,L
+MovingProc8,The architect/built/the monument/within two years/after/the city/had finally provided/the money for it.,1,2,What did the city provide money for?,A monument,A gallery,L
+MovingProc8,The architect/was building/the monument/for two years/after/the city/had finally provided/the money for it.,1,3,What did the city provide money for?,A monument,A gallery,L
+MovingProc8,The cook/made/the African beef stew/for two hours/after/he/had planned/the menu.,2,1,Who planned the menu?,The restaurant manager,The cook,R
+MovingProc8,The cook/made/the African beef stew/within two hours/after/he/had planned/the menu.,2,2,Who planned the menu?,The restaurant manager,The cook,R
+MovingProc8,The cook/was making/the African beef stew/for two hours/after/he/had planned/the menu.,2,3,Who planned the menu?,The restaurant manager,The cook,R
+MovingProc8,The artist/painted/the picture/for more than three days/after/he/had finally signed/the contract.,3,1,What did the artist do before painting? ,Sign a contract,Write a letter,L
+MovingProc8,The artist/painted/the picture/within three days/after/he/had finally signed/the contract.,3,2,What did the artist do before painting? ,Sign a contract,Write a letter,L
+MovingProc8,The artist/was painting/the picture/for more than three days/after/he/had finally signed/the contract.,3,3,What did the artist do before painting? ,Sign a contract,Write a letter,L
+MovingProc8,The mechanic/changed/the tire/for ten minutes/after/he/had finished/his lunch break.,4,1,When did the mechanic start changing the tire? ,After breakfast,After lunch break,R
+MovingProc8,The mechanic/changed/the tire/within ten minutes/after/he/had finished/his lunch break.,4,2,When did the mechanic start changing the tire? ,After breakfast,After lunch break,R
+MovingProc8,The mechanic/was changing/the tire/for ten minutes/after/he/had finished/his lunch break.,4,3,When did the mechanic start changing the tire? ,After breakfast,After lunch break,R
+MovingProc8,Simon/drank/the wine/for more than half an hour/after/he had/turned on/the television.,5,1,What kind of drink did Simon have? ,Wine,Beer,L
+MovingProc8,Simon/drank/the wine/within half an hour/after/he had/turned on/the television.,5,2,What kind of drink did Simon have? ,Wine,Beer,L
+MovingProc8,Simon/was drinking/the wine/for more than half an hour/after/he had/turned on/the television.,5,3,What kind of drink did Simon have? ,Wine,Beer,L
+MovingProc8,The president/delivered/the address/for half an hour/as soon as/he had/entered/the hall.,6,1,Who delivered the address?,The chancellor,The president,R
+MovingProc8,The president/delivered/the address/within half an hour/as soon as/he had/entered/the hall.,6,2,Who delivered the address?,The chancellor,The president,R
+MovingProc8,The president/was delivering/the address/for half an hour/as soon as/he had/entered/the hall.,6,3,Who delivered the address?,The chancellor,The president,R
+MovingProc8,The Prussian army/destroyed/the city/for a week/after/they had/surmounted/the city wall.,7,1,Who attacked the city?,The Prussian army,The Austrian army,L
+MovingProc8,The Prussian army/destroyed/the city/within a week/after/they/had surmounted/the city wall.,7,2,Who attacked the city?,The Prussian army,The Austrian army,L
+MovingProc8,The Prussian army/was destroying/the city/for a week/after/they had/surmounted/the city wall.,7,3,Who attacked the city?,The Prussian army,The Austrian army,L
+MovingProc8,The worker/loaded/the barrow/for more than one minute/after/he had/figured out/what he needed.,8,1,What did the worker figure out?,What he already had,What he needed,R
+MovingProc8,The worker/loaded/the barrow/within one minute/after/he had/figured out/what he needed.,8,2,What did the worker figure out?,What he already had,What he needed,R
+MovingProc8,The worker/was loading/the barrow/for more than one minute/after/he had/figured out/what he needed.,8,3,What did the worker figure out?,What he already had,What he needed,R
+MovingProc8,The athlete/ran/the marathon/for two hours/after/he had/returned/from the training camp.,9,1,What event did the athlete participate in? ,A marathon,A sprint,L
+MovingProc8,The athlete/ran/the marathon/within two hours/after/he had/returned/from the training camp.,9,2,What event did the athlete participate in? ,A marathon,A sprint,L
+MovingProc8,The athlete/was running/the marathon/for two hours/after/he had/returned/from the training camp.,9,3,What event did the athlete participate in? ,A marathon,A sprint,L
+MovingProc8,Peter/washed/the dishes/for an hour/after/they/had finished/dinner.,10,1,What did Peter have to do after dinner?,Clean the table,Wash the dishes,R
+MovingProc8,Peter/washed/the dishes/within an hour/after/they/had finished/dinner.,10,2,What did Peter have to do after dinner?,Clean the table,Wash the dishes,R
+MovingProc8,Peter/was washing/the dishes/for an hour/after/they/had finished/dinner.,10,3,What did Peter have to do after dinner?,Clean the table,Wash the dishes,R
+MovingProc8,Max/played/the polka/for ten minutes/after/Susan/had played/her favourite piece.,11,1,What did Susan play?,Her favorite piece,The polka,L
+MovingProc8,Max/played/the polka/within ten minutes/after/Susan/had played/her favourite piece.,11,2,What did Susan play?,Her favorite piece,The polka,L
+MovingProc8,Max/was playing/the polka/for ten minutes/after/Susan/had played/her favourite piece.,11,3,What did Susan play?,Her favorite piece,The polka,L
+MovingProc8,The pilot/overflew/the Alps/for an hour/after/he/had started/in Munich.,12,1,Where did the pilot start?,In Vienna,In Munich,R
+MovingProc8,The pilot/overflew/the Alps/within an hour/after/he/had started/in Munich.,12,2,Where did the pilot start?,In Vienna,In Munich,R
+MovingProc8,The pilot/was overflying/the Alps/for an hour/after/he/had started/in Munich.,12,3,Where did the pilot start?,In Vienna,In Munich,R
+MovingProc8,The farmer/planted/the field/for more than a day/after/it had/eventually/stopped raining.,13,1,How was the weather?,It stopped raining,It started snowing,L
+MovingProc8,The farmer/planted/the field/within a day/after/it had/eventually/stopped raining.,13,2,How was the weather?,It stopped raining,It started snowing,L
+MovingProc8,The farmer/was planting/the field/for more than a day/after/it had/eventually/stopped raining.,13,3,How was the weather?,It stopped raining,It started snowing,L
+MovingProc8,Sarah's mother/prepared/her lunch bag/for five minutes/after/she/had made/breakfast.,14,1,Who made breakfast?,Sarah’s father,Sarah’s mother,R
+MovingProc8,Sarah's mother/prepared/her lunch bag/within five minutes/after/she/had made/breakfast.,14,2,Who made breakfast?,Sarah’s father,Sarah’s mother,R
+MovingProc8,Sarah's mother/was preparing/her lunch bag/for five minutes/after/she/had made/breakfast.,14,3,Who made breakfast?,Sarah’s father,Sarah’s mother,R
+MovingProc8,Wilma/patched/the trousers/for twenty minutes/after/she/got/home.,15,1,What needed to be patched?,A pair of trousers,A dress,L
+MovingProc8,Wilma/patched/the trousers/within twenty minutes/after/she/got/home.,15,2,What needed to be patched?,A pair of trousers,A dress,L
+MovingProc8,Wilma/was patching/the trousers/for twenty minutes/after/she/got/home.,15,3,What needed to be patched?,A pair of trousers,A dress,L
+MovingProc8,The mountaineer/climbed/the north face/for more than five hours/after/the sky/had/cleared up.,16,1,How was the weather?,The sky became cloudy,The sky cleared up,R
+MovingProc8,The mountaineer/climbed/the north face/within five hours/after/the sky/had/cleared up.,16,2,How was the weather?,The sky became cloudy,The sky cleared up,R
+MovingProc8,The mountaineer/was climbing/the north face/for more than five hours/after/the sky/had/cleared up.,16,3,How was the weather?,The sky became cloudy,The sky cleared up,R
+MovingProc8,The plumber/repaired/the tap/for an hour/after/he had/arrived/at Peter's house.,17,1,,,,
+MovingProc8,The plumber/repaired/the tap/within an hour/after/he had/arrived/at Peter's house.,17,2,,,,
+MovingProc8,The plumber/was repairing/the tap/for an hour/after/he had/arrived/at Peter's house.,17,3,,,,
+MovingProc8,The accountant/balanced/the books/for more than three weeks/after/he had/come back/from his vacation.,18,1,,,,
+MovingProc8,The accountant/balanced/the books/within three weeks/after/he had/come back/from his vacation.,18,2,,,,
+MovingProc8,The accountant/was balancing/the books/for more than three weeks/after/he had/come back/from his vacation.,18,3,,,,
+MovingProc8,Mr. Jones/wrote/the letter/for thirty minutes/after/he had/come home/from work.,19,1,,,,
+MovingProc8,Mr. Jones/wrote/the letter/within thirty minutes/after/he had/come home/from work.,19,2,,,,
+MovingProc8,Mr. Jones/was writing/the letter/for thirty minutes/after/he had/come home/from work.,19,3,,,,
+MovingProc8,The coach/explained/the exercise/for ten minutes/after/everyone/had arrived/at the gym.,20,1,,,,
+MovingProc8,The coach/explained/the exercise/within ten minutes/after/everyone/had arrived/at the gym.,20,2,,,,
+MovingProc8,The coach/was explaining/the exercise/for ten minutes/after/everyone/had arrived/at the gym.,20,3,,,,
+MovingProc8,The decorator/created/the window display/for more than three days/after/she had/been hired/for the job.,21,1,,,,
+MovingProc8,The decorator/created/the window display/within three days/after/she had/been hired/for the job.,21,2,,,,
+MovingProc8,The decorator/was creating/the window display/for more than three days/after/she had/been hired/for the job.,21,3,,,,
+MovingProc8,The thief/emptied/the cash registers/for a minute/after/the alarm/had already/gone off.,22,1,,,,
+MovingProc8,The thief/emptied/the cash registers/within a minute/after/the alarm/had already/gone off.,22,2,,,,
+MovingProc8,The thief/was emptying/the cash registers/for a minute/after/the alarm/had already/gone off.,22,3,,,,
+MovingProc8,Caroline/performed/the rap song/for two minutes/as soon as/she had/memorized/the lyrics.,23,1,,,,
+MovingProc8,Caroline/performed/the rap song/within two minutes/as soon as/she had/memorized/the lyrics.,23,2,,,,
+MovingProc8,Caroline/was performing/the rap song/for two minutes/as soon as/she had/memorized/the lyrics.,23,3,,,,
+MovingProc8,The boy/ate up/his lunch/for more than ten minutes/after/history class/was/over.,24,1,,,,
+MovingProc8,The boy/ate up/his lunch/within ten minutes/after/history class/was/over.,24,2,,,,
+MovingProc8,The boy/was eating up/his lunch/for more than ten minutes/after/history class/was/over.,24,3,,,,
+MovingProc8,The fire brigade/extinguished/the fire/for two hours/as soon as/they had/arrived/at the site of the blaze.,25,1,,,,
+MovingProc8,The fire brigade/extinguished/the fire/within two hours/as soon as/they had/arrived/at the site of the blaze.,25,2,,,,
+MovingProc8,The fire brigade/was extinguishing/the fire/for two hours/as soon as/they had/arrived/at the site of the blaze.,25,3,,,,
+MovingProc8,The student/printed out/the article/for five minutes/after/he had/downloaded/the PDF.,26,1,,,,
+MovingProc8,The student/printed out/the article/within five minutes/after/he had/downloaded/the PDF.,26,2,,,,
+MovingProc8,The student/was printing out/the article/for five minutes/after/he had/downloaded/the PDF.,26,3,,,,
+MovingProc8,The military commanders/deployed/the troops/for two days/as soon as/they/had received/the command.,27,1,,,,
+MovingProc8,The military commanders/deployed/the troops/within two days/as soon as/they/had received/the command.,27,2,,,,
+MovingProc8,The military commanders/were deploying/the troops/for two days/as soon as/they/had received/the command.,27,3,,,,
+MovingProc8,The artist/sketched/his design of the church's ceiling/for a day/after/he had/received/the architect's plans.,28,1,,,,
+MovingProc8,The artist/sketched/his design of the church's ceiling/within a day/after/he had/received/the architect's plans.,28,2,,,,
+MovingProc8,The artist/was sketching/his design of the church's ceiling/for a day/after/he had/received/the architect's plans.,28,3,,,,
+MovingProc8,The administrator/installed/the program/for more than an hour/after/the new/computer pool/was set up.,29,1,,,,
+MovingProc8,The administrator/installed/the program/within an hour/after/the new/computer pool/was set up.,29,2,,,,
+MovingProc8,The administrator/was installing/the program/for more than an hour/after/the new/computer pool/was set up.,29,3,,,,
+MovingProc8,Mr. Peterson/assembled/the new computer/for an hour/after/he had/bought/the spare parts.,30,1,,,,
+MovingProc8,Mr. Peterson/assembled/the new computer/within an hour/after/he had/bought/the spare parts.,30,2,,,,
+MovingProc8,Mr. Peterson/was assembling/the new computer/for an hour/after/he had/bought/the spare parts.,30,3,,,,
+MovingProc8,The tailor/sewed/the suit/for three days/after/Mr. Smith/had/ordered it.,31,1,,,,
+MovingProc8,The tailor/sewed/the suit/within three days/after/Mr. Smith/had/ordered it.,31,2,,,,
+MovingProc8,The tailor/was sewing/the suit/for three days/after/Mr. Smith/had/ordered it.,31,3,,,,
+MovingProc8,The barkeeper/mixed/the drink/for more than one minute/after/his colleague/had given him/the recipe.,32,1,,,,
+MovingProc8,The barkeeper/mixed/the drink/within one minute/after/his colleague/had given him/the recipe.,32,2,,,,
+MovingProc8,The barkeeper/was mixing/the drink/for more than one minute/after/his colleague/had given him/the recipe.,32,3,,,,
+MovingProc8,The sailor/tied/the knot/for one minute/after/he had/put up/the sail.,33,1,,,,
+MovingProc8,The sailor/tied/the knot/within one minute/after/he had/put up/the sail.,33,2,,,,
+MovingProc8,The sailor/was tying/the knot/for one minute/after/he had/put up/the sail.,33,3,,,,
+MovingProc8,The boy/swam/the fifty meters distance/for thirty seconds/after/he had/dived/from the starting block.,34,1,,,,
+MovingProc8,The boy/swam/the fifty meters distance/within thirty seconds/after/he had/dived/from the starting block.,34,2,,,,
+MovingProc8,The boy/was swimming/the fifty meters distance/for thirty seconds/after/he had/dived/from the starting block.,34,3,,,,
+MovingProc8,The boy/drained/the bottle of soda/for more than a minute/after/he had/been playing/basketball the whole morning.,35,1,,,,
+MovingProc8,The boy/drained/the bottle of soda/within a minute/after/he had/been playing/basketball the whole morning.,35,2,,,,
+MovingProc8,The boy/was draining/the bottle of soda/for more than a minute/after/he had/been playing/basketball the whole morning.,35,3,,,,
+MovingProc8,The plane/overflew/the Pyrenees/for twenty minutes/after/it had/started/in Barcelona.,36,1,,,,
+MovingProc8,The plane/overflew/the Pyrenees/within twenty minutes/after/it had/started/in Barcelona.,36,2,,,,
+MovingProc8,The plane/was overflying/the Pyrenees/for twenty minutes/after/it had/started/in Barcelona.,36,3,,,,
+MovingProc8,Little Timmy/removed/the splinter/for more than five minutes/after/he could/no longer/stand the pain.,37,1,,,,
+MovingProc8,Little Timmy/removed/the splinter/within five minutes/after/he could/no longer/stand the pain.,37,2,,,,
+MovingProc8,Little Timmy/was removing/the splinter/for more than five minutes/after/he could/no longer/stand the pain.,37,3,,,,
+MovingProc8,The cyclist/crossed/the long bridge/for three minutes/after/he had/caught up/with the field.,38,1,,,,
+MovingProc8,The cyclist/crossed/the long bridge/within three minutes/after/he had/caught up/with the field.,38,2,,,,
+MovingProc8,The cyclist/was crossing/the long bridge/for three minutes/after/he had/caught up/with the field.,38,3,,,,
+MovingProc8,Bob/built/the fire/for more than five minutes/after/he had/set up/his tent.,39,1,,,,
+MovingProc8,Bob/built/the fire/within five minutes/after/he had/set up/his tent.,39,2,,,,
+MovingProc8,Bob/was building/the fire/for more than five minutes/after/he had/set up/his tent.,39,3,,,,
+MovingProc8,Susan/gobbled up/the plate of fried chicken/for ten minutes/after/she could/eventually/take her break.,40,1,,,,
+MovingProc8,Susan/gobbled up/the plate of fried chicken/within ten minutes/after/she could/eventually/take her break.,40,2,,,,
+MovingProc8,Susan/was gobbling up/the plate of fried chicken/for ten minutes/after/she could/eventually/take her break.,40,3,,,,
+MovingProc8,Carl/inhaled/the delicious chocolate cake/for twenty minutes/after/he/had/gotten home.,41,1,,,,
+MovingProc8,Carl/inhaled/the delicious chocolate cake/within twenty minutes/after/he/had gotten/home.,41,2,,,,
+MovingProc8,Carl/was inhaling/the delicious chocolate cake/for twenty minutes/after/he/had/gotten home.,41,3,,,,
+MovingProc8,The athlete/poured down/the bottle of water/for more than two minutes/after/he had/won/the competition.,42,1,,,,
+MovingProc8,The athlete/poured down/the bottle of water/within two minutes/after/he had/won/the competition.,42,2,,,,
+MovingProc8,The athlete/was pouring down/the bottle of water/for more than two minutes/after/he had/won/the competition.,42,3,,,,
+MovingProc8,The alcoholic/downed/the can of beer/for a minute/after/he had/left/the corner store.,43,1,,,,
+MovingProc8,The alcoholic/downed/the can of beer/within a minute/after/he had/left/the corner store.,43,2,,,,
+MovingProc8,The alcoholic/was downing/the can of beer/for a minute/after/he had/left/the corner store.,43,3,,,,
+MovingProc8,Bill/cleared away/the plate of potatoes/for ten minutes/after/the basketball game/on TV/was over.,44,1,,,,
+MovingProc8,Bill/cleared away/the plate of potatoes/within ten minutes/after/the basketball game/on TV/was over.,44,2,,,,
+MovingProc8,Bill/was clearing away/the plate of potatoes/for ten minutes/after/the basketball game/on TV/was over.,44,3,,,,
+MovingProc8,The scout/set up/the tent/for more than ten minutes/after/he had/been hiking/all day.,45,1,,,,
+MovingProc8,The scout/set up/the tent/within ten minutes/after/he had/been hiking/all day.,45,2,,,,
+MovingProc8,The scout/was setting up/the tent/for more than ten minutes/after/he had/been hiking/all day.,45,3,,,,
+MovingProc8,The architect/constructed/the bridge/for five months/after/he had/won/the competition.,46,1,,,,
+MovingProc8,The architect/constructed/the bridge/within five months/after/he had/won/the competition.,46,2,,,,
+MovingProc8,The architect/was constructing/the bridge/for five months/after/he had/won/the competition.,46,3,,,,
+MovingProc8,The architect/drew up/the plans/for two months/after/he had/signed/the contract.,47,1,,,,
+MovingProc8,The architect/drew up/the plans/within two months/after/he had/signed/the contract.,47,2,,,,
+MovingProc8,The architect/was drawing up/the plans/for two months/after/he had/signed/the contract.,47,3,,,,
+MovingProc8,The girl/put together/the puzzle/for more than one hour/after/she had/come home/from school.,48,1,,,,
+MovingProc8,The girl/put together/the puzzle/within one hour/after/she had/come home/from school.,48,2,,,,
+MovingProc8,The girl/was putting together/the puzzle/for more than one hour/after/she had/come home/from school.,48,3,,,,

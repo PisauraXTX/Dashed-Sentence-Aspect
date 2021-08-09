@@ -1,0 +1,9 @@
+"Experiment","Sentence","Item","List","Content","No","Yes","Group","Question","AnswerL","AnswerR","Correct"
+"MovingProc8","Bill*was*running*for many hours*the Ironman marathon*across*the mountains*of Hawaii.",0,0,"content question","yes = 1","no = 5",0,"How long was Bill running for?","Many hours","A few minutes","L"
+"MovingProc8","James*was cycling*with the strong*and cold wind*in his back.",0,0,"content question","yes = 1","no = 5",0,,,,
+"MovingProc8","Mark*was eating*plenty of fat*from vegetable sources*like avocados,*nuts and seeds.",0,0,"content question","yes = 1","no = 5",0,,,,
+"MovingProc8","The teacher*included*without hesitation*the quiet students*at the back of the class.",0,0,"content question","yes = 1","no = 5",0,,,,
+"MovingProc8","Shortly*after the*library*had opened*Anna*went*into the building*and began to read.",0,0,"content question","yes = 1","no = 5",0,,,,
+"MovingProc8","The crowd*destroyed*in a violent rage*the holy statue*made of bronze.",0,0,"content question","yes = 1","no = 5",0,"What was the statue made of?","Marble","Bronze","R"
+"MovingProc8","After*Peter*had arrived*at the park,*he jogged*for twenty minutes.",0,0,"content question","yes = 1","no = 5",0,,,,
+"MovingProc8","The grandmother*lifted*with delight*the crying infant*in*the antique crib.",0,0,"content question","yes = 1","no = 5",0,"Who lifted the crying infant?","The grandmother","The grandfather","L"

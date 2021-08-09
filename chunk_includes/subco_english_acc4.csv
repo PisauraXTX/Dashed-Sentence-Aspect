@@ -1,0 +1,226 @@
+"Experiment","Sentence","Item","List","Content","No","Yes","Group","Question","AnswerL","AnswerR","Correct"
+"MovingProc8","The_architect built the_monument for_two_years after the_city had_finally_provided the_money_for_it.",1,1,"content question","yes = 1","no = 5",1,"What did the city provide money for?","A monument","A gallery","L"
+"MovingProc8","The_architect built the_monument within_two_years after the_city had_finally_provided the_money_for_it.",1,2,"content question","yes = 1","no = 5",2,"What did the city provide money for?","A monument","A gallery","L"
+"MovingProc8","The_architect was_building the_monument for_two_years after the_city had_finally_provided the_money_for_it.",1,3,"content question","yes = 1","no = 5",3,"What did the city provide money for?","A monument","A gallery","L"
+"MovingProc8","The_cook made the_African_beef_stew for_two_hours after he had_planned the_menu.",2,1,"content question","yes = 1","no = 5",2,"Who planned the menu?","The restaurant manager","The cook","R"
+"MovingProc8","The_cook made the_African_beef_stew within_two_hours after he had_planned the_menu.",2,2,"content question","yes = 1","no = 5",3,"Who planned the menu?","The restaurant manager","The cook","R"
+"MovingProc8","The_cook was_making the_African_beef_stew for_two_hours after he had_planned the_menu.",2,3,"content question","yes = 1","no = 5",1,"Who planned the menu?","The restaurant manager","The cook","R"
+"MovingProc8","The_artist painted the_picture for_more_than_three_days after he had_finally_signed the_contract.",3,1,"content question","yes = 1","no = 5",3,"What did the artist do before painting?","Sign a contract","Write a letter","L"
+"MovingProc8","The_artist painted the_picture within_three_days after he had_finally_signed the_contract.",3,2,"content question","yes = 1","no = 5",1,"What did the artist do before painting?","Sign a contract","Write a letter","L"
+"MovingProc8","The_artist was_painting the_picture for_more_than_three_days after he had_finally_signed the_contract.",3,3,"content question","yes = 1","no = 5",2,"What did the artist do before painting?","Sign a contract","Write a letter","L"
+"MovingProc8","The_mechanic changed the_tire for_ten_minutes after he had_finished his_lunch_break.",4,1,"content question","yes = 1","no = 5",1,"When did the mechanic start changing the tire?","After breakfast","After lunch break","R"
+"MovingProc8","The_mechanic changed the_tire within_ten_minutes after he had_finished his_lunch_break.",4,2,"content question","yes = 1","no = 5",2,"When did the mechanic start changing the tire?","After breakfast","After lunch break","R"
+"MovingProc8","The_mechanic was_changing the_tire for_ten_minutes after he had_finished his_lunch_break.",4,3,"content question","yes = 1","no = 5",3,"When did the mechanic start changing the tire?","After breakfast","After lunch break","R"
+"MovingProc8","Simon drank the_wine for_more_than_half_an_hour after he_had turned_on the_television.",5,1,"content question","yes = 1","no = 5",2,"What kind of drink did Simon have?","Wine","Beer","L"
+"MovingProc8","Simon drank the_wine within_half_an_hour after he_had turned_on the_television.",5,2,"content question","yes = 1","no = 5",3,"What kind of drink did Simon have?","Wine","Beer","L"
+"MovingProc8","Simon was_drinking the_wine for_more_than_half_an_hour after he_had turned_on the_television.",5,3,"content question","yes = 1","no = 5",1,"What kind of drink did Simon have?","Wine","Beer","L"
+"MovingProc8","The_president delivered the_address for_half_an_hour as_soon_as he_had entered the_hall.",6,1,"content question","yes = 1","no = 5",3,"Who delivered the address?","The chancellor","The president","R"
+"MovingProc8","The_president delivered the_address within_half_an_hour as_soon_as he_had entered the_hall.",6,2,"content question","yes = 1","no = 5",1,"Who delivered the address?","The chancellor","The president","R"
+"MovingProc8","The_president was_delivering the_address for_half_an_hour as_soon_as he_had entered the_hall.",6,3,"content question","yes = 1","no = 5",2,"Who delivered the address?","The chancellor","The president","R"
+"MovingProc8","The_Prussian_army destroyed the_city for_a_week after they_had surmounted the_city_wall.",7,1,"content question","yes = 1","no = 5",1,"Who attacked the city?","The Prussian army","The Austrian army","L"
+"MovingProc8","The_Prussian_army destroyed the_city within_a_week after they had_surmounted the_city_wall.",7,2,"content question","yes = 1","no = 5",2,"Who attacked the city?","The Prussian army","The Austrian army","L"
+"MovingProc8","The_Prussian_army was_destroying the_city for_a_week after they_had surmounted the_city_wall.",7,3,"content question","yes = 1","no = 5",3,"Who attacked the city?","The Prussian army","The Austrian army","L"
+"MovingProc8","The_worker loaded the_barrow for_more_than_one_minute after he_had figured_out what_he_needed.",8,1,"content question","yes = 1","no = 5",2,"What did the worker do?","Unload a truck","Load a barrow","R"
+"MovingProc8","The_worker loaded the_barrow within_one_minute after he_had figured_out what_he_needed.",8,2,"content question","yes = 1","no = 5",3,"What did the worker do?","Unload a truck","Load a barrow","R"
+"MovingProc8","The_worker was_loading the_barrow for_more_than_one_minute after he_had figured_out what_he_needed.",8,3,"content question","yes = 1","no = 5",1,"What did the worker do?","Unload a truck","Load a barrow","R"
+"MovingProc8","The_athlete ran the_marathon for_two_hours after he_had returned from_the_training_camp.",9,1,"content question","yes = 1","no = 5",3,"What event did the athlete participate in?","A marathon","A sprint","L"
+"MovingProc8","The_athlete ran the_marathon within_two_hours after he_had returned from_the_training_camp.",9,2,"content question","yes = 1","no = 5",1,"What event did the athlete participate in?","A marathon","A sprint","L"
+"MovingProc8","The_athlete was_running the_marathon for_two_hours after he_had returned from_the_training_camp.",9,3,"content question","yes = 1","no = 5",2,"What event did the athlete participate in?","A marathon","A sprint","L"
+"MovingProc8","Peter washed the_dishes for_an_hour after they had_finished dinner.",10,1,"content question","yes = 1","no = 5",1,"What did Peter have to do after dinner?","Clean the table","Wash the dishes","R"
+"MovingProc8","Peter washed the_dishes within_an_hour after they had_finished dinner.",10,2,"content question","yes = 1","no = 5",2,"What did Peter have to do after dinner?","Clean the table","Wash the dishes","R"
+"MovingProc8","Peter was_washing the_dishes for_an_hour after they had_finished dinner.",10,3,"content question","yes = 1","no = 5",3,"What did Peter have to do after dinner?","Clean the table","Wash the dishes","R"
+"MovingProc8","Max played the_polka for_ten_minutes after Susan had_played her_favourite_piece.",11,1,"content question","yes = 1","no = 5",2,"What did Susan play?","Her favorite piece","The polka","L"
+"MovingProc8","Max played the_polka within_ten_minutes after Susan had_played her_favourite_piece.",11,2,"content question","yes = 1","no = 5",3,"What did Susan play?","Her favorite piece","The polka","L"
+"MovingProc8","Max was_playing the_polka for_ten_minutes after Susan had_played her_favourite_piece.",11,3,"content question","yes = 1","no = 5",1,"What did Susan play?","Her favorite piece","The polka","L"
+"MovingProc8","The_pilot overflew the_Alps for_an_hour after he had_started in_Munich.",12,1,"content question","yes = 1","no = 5",3,"Where did the pilot start?","In Vienna","In Munich","R"
+"MovingProc8","The_pilot overflew the_Alps within_an_hour after he had_started in_Munich.",12,2,"content question","yes = 1","no = 5",1,"Where did the pilot start?","In Vienna","In Munich","R"
+"MovingProc8","The_pilot was_overflying the_Alps for_an_hour after he had_started in_Munich.",12,3,"content question","yes = 1","no = 5",2,"Where did the pilot start?","In Vienna","In Munich","R"
+"MovingProc8","The_farmer planted the_field for_more_than_a_day after it_had eventually stopped_raining.",13,1,"content question","yes = 1","no = 5",1,"How was the weather?","It stopped raining","It started snowing","L"
+"MovingProc8","The_farmer planted the_field within_a_day after it_had eventually stopped_raining.",13,2,"content question","yes = 1","no = 5",2,"How was the weather?","It stopped raining","It started snowing","L"
+"MovingProc8","The_farmer was_planting the_field for_more_than_a_day after it_had eventually stopped_raining.",13,3,"content question","yes = 1","no = 5",3,"How was the weather?","It stopped raining","It started snowing","L"
+"MovingProc8","Sarah's_mother prepared her_lunch_bag for_five_minutes after she had_made breakfast.",14,1,"content question","yes = 1","no = 5",2,"Who made breakfast?","Sarah’s father","Sarah’s mother","R"
+"MovingProc8","Sarah's_mother prepared her_lunch_bag within_five_minutes after she had_made breakfast.",14,2,"content question","yes = 1","no = 5",3,"Who made breakfast?","Sarah’s father","Sarah’s mother","R"
+"MovingProc8","Sarah's_mother was_preparing her_lunch_bag for_five_minutes after she had_made breakfast.",14,3,"content question","yes = 1","no = 5",1,"Who made breakfast?","Sarah’s father","Sarah’s mother","R"
+"MovingProc8","Wilma patched the_trousers for_twenty_minutes after she got home.",15,1,"content question","yes = 1","no = 5",3,"What needed to be patched?","A pair of trousers","A dress","L"
+"MovingProc8","Wilma patched the_trousers within_twenty_minutes after she got home.",15,2,"content question","yes = 1","no = 5",1,"What needed to be patched?","A pair of trousers","A dress","L"
+"MovingProc8","Wilma was_patching the_trousers for_twenty_minutes after she got home.",15,3,"content question","yes = 1","no = 5",2,"What needed to be patched?","A pair of trousers","A dress","L"
+"MovingProc8","The_mountaineer climbed the_north_face for_more_than_five_hours after the_sky had cleared_up.",16,1,"content question","yes = 1","no = 5",1,"How was the weather?","The sky became cloudy","The sky cleared up","R"
+"MovingProc8","The_mountaineer climbed the_north_face within_five_hours after the_sky had cleared_up.",16,2,"content question","yes = 1","no = 5",2,"How was the weather?","The sky became cloudy","The sky cleared up","R"
+"MovingProc8","The_mountaineer was_climbing the_north_face for_more_than_five_hours after the_sky had cleared_up.",16,3,"content question","yes = 1","no = 5",3,"How was the weather?","The sky became cloudy","The sky cleared up","R"
+"MovingProc8","The_plumber repaired the_tap for_an_hour after he_had arrived at_Peter's_house.",17,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_plumber repaired the_tap within_an_hour after he_had arrived at_Peter's_house.",17,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_plumber was_repairing the_tap for_an_hour after he_had arrived at_Peter's_house.",17,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_accountant balanced the_books for_more_than_three_weeks after he_had come_back from_his_vacation.",18,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_accountant balanced the_books within_three_weeks after he_had come_back from_his_vacation.",18,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_accountant was_balancing the_books for_more_than_three_weeks after he_had come_back from_his_vacation.",18,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Mr._Jones wrote the_letter for_thirty_minutes after he_had come_home from_work.",19,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Mr._Jones wrote the_letter within_thirty_minutes after he_had come_home from_work.",19,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Mr._Jones was_writing the_letter for_thirty_minutes after he_had come_home from_work.",19,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_coach explained the_exercise for_ten_minutes after everyone had_arrived at_the_gym.",20,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_coach explained the_exercise within_ten_minutes after everyone had_arrived at_the_gym.",20,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_coach was_explaining the_exercise for_ten_minutes after everyone had_arrived at_the_gym.",20,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_decorator created the_window_display for_more_than_three_days after she_had been_hired for_the_job.",21,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_decorator created the_window_display within_three_days after she_had been_hired for_the_job.",21,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_decorator was_creating the_window_display for_more_than_three_days after she_had been_hired for_the_job.",21,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_thief emptied the_cash_registers for_a_minute after the_alarm had_already gone_off.",22,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_thief emptied the_cash_registers within_a_minute after the_alarm had_already gone_off.",22,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_thief was_emptying the_cash_registers for_a_minute after the_alarm had_already gone_off.",22,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Caroline performed the_rap_song for_two_minutes as_soon_as she_had memorized the_lyrics.",23,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Caroline performed the_rap_song within_two_minutes as_soon_as she_had memorized the_lyrics.",23,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Caroline was_performing the_rap_song for_two_minutes as_soon_as she_had memorized the_lyrics.",23,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_boy ate_up his_lunch for_more_than_ten_minutes after history_class was over.",24,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_boy ate_up his_lunch within_ten_minutes after history_class was over.",24,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_boy was_eating_up his_lunch for_more_than_ten_minutes after history_class was over.",24,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_fire_brigade extinguished the_fire for_two_hours as_soon_as they_had arrived at_the_site_of_the_blaze.",25,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_fire_brigade extinguished the_fire within_two_hours as_soon_as they_had arrived at_the_site_of_the_blaze.",25,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_fire_brigade was_extinguishing the_fire for_two_hours as_soon_as they_had arrived at_the_site_of_the_blaze.",25,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_student printed_out the_article for_five_minutes after he_had downloaded the_PDF.",26,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_student printed_out the_article within_five_minutes after he_had downloaded the_PDF.",26,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_student was_printing_out the_article for_five_minutes after he_had downloaded the_PDF.",26,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_military_commanders deployed the_troops for_two_days as_soon_as they had_received the_command.",27,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_military_commanders deployed the_troops within_two_days as_soon_as they had_received the_command.",27,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_military_commanders were_deploying the_troops for_two_days as_soon_as they had_received the_command.",27,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_artist sketched his_design_of_the_church's_ceiling for_a_day after he_had received the_architect's_plans.",28,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_artist sketched his_design_of_the_church's_ceiling within_a_day after he_had received the_architect's_plans.",28,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_artist was_sketching his_design_of_the_church's_ceiling for_a_day after he_had received the_architect's_plans.",28,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_administrator installed the_program for_more_than_an_hour after the_new computer_pool was_set_up.",29,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_administrator installed the_program within_an_hour after the_new computer_pool was_set_up.",29,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_administrator was_installing the_program for_more_than_an_hour after the_new computer_pool was_set_up.",29,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Mr._Peterson assembled the_new_computer for_an_hour after he_had bought the_spare_parts.",30,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Mr._Peterson assembled the_new_computer within_an_hour after he_had bought the_spare_parts.",30,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Mr._Peterson was_assembling the_new_computer for_an_hour after he_had bought the_spare_parts.",30,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_tailor sewed the_suit for_three_days after Mr._Smith had ordered_it.",31,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_tailor sewed the_suit within_three_days after Mr._Smith had ordered_it.",31,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_tailor was_sewing the_suit for_three_days after Mr._Smith had ordered_it.",31,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_barkeeper mixed the_drink for_more_than_one_minute after his_colleague had_given_him the_recipe.",32,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_barkeeper mixed the_drink within_one_minute after his_colleague had_given_him the_recipe.",32,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_barkeeper was_mixing the_drink for_more_than_one_minute after his_colleague had_given_him the_recipe.",32,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_sailor tied the_knot for_one_minute after he_had put_up the_sail.",33,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_sailor tied the_knot within_one_minute after he_had put_up the_sail.",33,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_sailor was_tying the_knot for_one_minute after he_had put_up the_sail.",33,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_boy swam the_fifty_meters_distance for_thirty_seconds after he_had dived from_the_starting_block.",34,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_boy swam the_fifty_meters_distance within_thirty_seconds after he_had dived from_the_starting_block.",34,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_boy was_swimming the_fifty_meters_distance for_thirty_seconds after he_had dived from_the_starting_block.",34,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_boy drained the_bottle_of_soda for_more_than_a_minute after he_had been_playing basketball_the_whole_morning.",35,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_boy drained the_bottle_of_soda within_a_minute after he_had been_playing basketball_the_whole_morning.",35,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_boy was_draining the_bottle_of_soda for_more_than_a_minute after he_had been_playing basketball_the_whole_morning.",35,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_plane overflew the_Pyrenees for_twenty_minutes after it_had started in_Barcelona.",36,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_plane overflew the_Pyrenees within_twenty_minutes after it_had started in_Barcelona.",36,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_plane was_overflying the_Pyrenees for_twenty_minutes after it_had started in_Barcelona.",36,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Little_Timmy removed the_splinter for_more_than_five_minutes after he_could no_longer stand_the_pain.",37,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Little_Timmy removed the_splinter within_five_minutes after he_could no_longer stand_the_pain.",37,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Little_Timmy was_removing the_splinter for_more_than_five_minutes after he_could no_longer stand_the_pain.",37,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_cyclist crossed the_long_bridge for_three_minutes after he_had caught_up with_the_field.",38,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_cyclist crossed the_long_bridge within_three_minutes after he_had caught_up with_the_field.",38,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_cyclist was_crossing the_long_bridge for_three_minutes after he_had caught_up with_the_field.",38,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Bob built the_fire for_more_than_five_minutes after he_had set_up his_tent.",39,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Bob built the_fire within_five_minutes after he_had set_up his_tent.",39,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Bob was_building the_fire for_more_than_five_minutes after he_had set_up his_tent.",39,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Susan gobbled_up the_plate_of_fried_chicken for_ten_minutes after she_could eventually take_her_break.",40,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","Susan gobbled_up the_plate_of_fried_chicken within_ten_minutes after she_could eventually take_her_break.",40,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Susan was_gobbling_up the_plate_of_fried_chicken for_ten_minutes after she_could eventually take_her_break.",40,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Carl inhaled the_delicious_chocolate_cake for_twenty_minutes after he had gotten_home.",41,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Carl inhaled the_delicious_chocolate_cake within_twenty_minutes after he had_gotten home.",41,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Carl was_inhaling the_delicious_chocolate_cake for_twenty_minutes after he had gotten_home.",41,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_athlete poured_down the_bottle_of_water for_more_than_two_minutes after he_had won the_competition.",42,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_athlete poured_down the_bottle_of_water within_two_minutes after he_had won the_competition.",42,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_athlete was_pouring_down the_bottle_of_water for_more_than_two_minutes after he_had won the_competition.",42,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_alcoholic downed the_can_of_beer for_a_minute after he_had left the_corner_store.",43,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_alcoholic downed the_can_of_beer within_a_minute after he_had left the_corner_store.",43,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_alcoholic was_downing the_can_of_beer for_a_minute after he_had left the_corner_store.",43,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Bill cleared_away the_plate_of_potatoes for_ten_minutes after the_basketball_game on_TV was_over.",44,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","Bill cleared_away the_plate_of_potatoes within_ten_minutes after the_basketball_game on_TV was_over.",44,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","Bill was_clearing_away the_plate_of_potatoes for_ten_minutes after the_basketball_game on_TV was_over.",44,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_scout set_up the_tent for_more_than_ten_minutes after he_had been_hiking all_day.",45,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_scout set_up the_tent within_ten_minutes after he_had been_hiking all_day.",45,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_scout was_setting_up the_tent for_more_than_ten_minutes after he_had been_hiking all_day.",45,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_architect constructed the_bridge for_five_months after he_had won the_competition.",46,1,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_architect constructed the_bridge within_five_months after he_had won the_competition.",46,2,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_architect was_constructing the_bridge for_five_months after he_had won the_competition.",46,3,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_architect drew_up the_plans for_two_months after the_client_had signed the_contract.",47,1,"content question","yes = 1","no = 5",2,,,,
+"MovingProc8","The_architect drew_up the_plans within_two_months after the_client_had signed the_contract.",47,2,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_architect was_drawing_up the_plans for_two_months after the_client_had signed the_contract.",47,3,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_girl put_together the_puzzle for_more_than_one_hour after she_had come_home from_school.",48,1,"content question","yes = 1","no = 5",3,,,,
+"MovingProc8","The_girl put_together the_puzzle within_one_hour after she_had come_home from_school.",48,2,"content question","yes = 1","no = 5",1,,,,
+"MovingProc8","The_girl was_putting_together the_puzzle for_more_than_one_hour after she_had come_home from_school.",48,3,"content question","yes = 1","no = 5",2,,,,
+"MovingProc6","During_the_night the_writer stumbled in the_crowded apartment.",49,7,"makes sense?","yes = 1","no = 5",1,"Where did the writer stumble?","In the apartment","In the street","L"
+"MovingProc6","After_hanging_up the_writer stumbled in the_crowded apartment.",49,8,"makes sense?","yes = 1","no = 5",2,"Where did the writer stumble?","In the apartment","In the street","L"
+"MovingProc6","For_an_hour the_mouse squeaked in the_cramped living_room.",50,7,"makes sense?","yes = 1","no = 5",2,"Who squeaked?","John","The mouse","R"
+"MovingProc6","After_John_entered the_mouse squeaked in the_cramped living_room.",50,8,"makes sense?","yes = 1","no = 5",1,"Who squeaked?","John","The mouse","R"
+"MovingProc6","During_the_morning the_designer sniffed in the_freshly_painted studio.",51,7,"makes sense?","yes = 1","no = 5",1,"What did the designer do in the studio?","Sniff","Sleep","L"
+"MovingProc6","After_breakfast the_designer sniffed in the_freshly_painted studio.",51,8,"makes sense?","yes = 1","no = 5",2,"What did the designer do in the studio?","Sniff","Sleep","L"
+"MovingProc6","For_twenty_minutes the_father glanced out of the_small_window.",52,7,"makes sense?","yes = 1","no = 5",2,"What did the father glance out of?","The spyhole","The small window","R"
+"MovingProc6","After_dinner the_father glanced out of the_small_window.",52,8,"makes sense?","yes = 1","no = 5",1,"What did the father glance out of?","The spyhole","The small window","R"
+"MovingProc6","For_several_minutes the_acrobat leapt on the_bouncy trampoline.",53,7,"makes sense?","yes = 1","no = 5",1,"What did the acrobat do?","Jump","Dance","L"
+"MovingProc6","After_the_competition the_acrobat leapt on the_bouncy trampoline.",53,8,"makes sense?","yes = 1","no = 5",2,"What did the acrobat do?","Jump","Dance","L"
+"MovingProc6","For_many_hours the_janitor jumped in the_empty hallway.",54,7,"makes sense?","yes = 1","no = 5",2,"Who jumped?","A security officer","A janitor","R"
+"MovingProc6","After_work the_janitor jumped in the_empty hallway.",54,8,"makes sense?","yes = 1","no = 5",1,"Who jumped?","A security officer","A janitor","R"
+"MovingProc6","For_a_minute the_toddler burped in the back_seat.",55,7,"makes sense?","yes = 1","no = 5",1,"Where did the toddler burp?","In the back seat","In the front seat","L"
+"MovingProc6","After_waking_up the_toddler burped in the back_seat.",55,8,"makes sense?","yes = 1","no = 5",2,"Where did the toddler burp?","In the back seat","In the front seat","L"
+"MovingProc6","For_fifteen_minutes the_performer jumped in the practice_studio.",56,7,"makes sense?","yes = 1","no = 5",2,"Where did the performer jump?","In front of the camera","In the practice studio","R"
+"MovingProc6","After_the_filming the_performer jumped in the practice_studio.",56,8,"makes sense?","yes = 1","no = 5",1,"Where did the performer jump?","In front of the camera","In the practice studio","R"
+"MovingProc6","For_two_hours the_frog leapt across the_shallow pond.",57,7,"makes sense?","yes = 1","no = 5",1,"Who leapt?","The frog","The squirrel","L"
+"MovingProc6","After_the_rain the_frog leapt across the_shallow pond.",57,8,"makes sense?","yes = 1","no = 5",2,"Who leapt?","The frog","The squirrel","L"
+"MovingProc6","For_twenty_minutes the_patient sneezed in the waiting_room.",58,7,"makes sense?","yes = 1","no = 5",2,"What did the patient do?","Cough","Sneeze","R"
+"MovingProc6","After_sitting_down the_patient sneezed in the waiting_room.",58,8,"makes sense?","yes = 1","no = 5",1,"What did the patient do?","Cough","Sneeze","R"
+"MovingProc6","For_two_minutes the_lawyer glanced at the police_officer.",59,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_giving_evidence the_lawyer glanced at the_ police_officer.",59,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","All_afternoon_long the_politician winked in front_of the_audience.",60,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_speech the_politician winked in front_of the_audience.",60,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","For_several_seconds the_car swerved on the_windy mountaintop.",61,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_the_sun_went_down the_car swerved on the_windy mountaintop.",61,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","For_some_time the_mosquito stung over the_muddy riverbank.",62,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_dawn the_mosquito stung over the_muddy riverbank.",62,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","Throughout_the_afternoon the_girl tripped in the_snowy field.",63,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_school the_girl tripped in the_snowy field.",63,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","For_several_seconds the_explorer fired beside the_big blue_lake.",64,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_a_twig_cracked the_explorer fired beside the_big blue_lake.",64,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","For_thirty_minutes the_player swung in the practice_cage.",65,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_the_match the_player swung in the practice_cage.",65,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","For_five_minutes the_fireman blinked in the_dark stairwell.",66,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_lights_went_out the_fireman blinked in the_dark stairwell.",66,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","For_ten_minutes the_tailor belched on the_empty sidewalk.",67,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_leaving_his_shop the_tailor belched on the_empty sidewalk.",67,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","All_day_long the_instructor coughed in front_of the_classroom.",68,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_lecture the_instructor coughed in front_of the_classroom.",68,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","Throughout_the_morning the_manager burped in the corner_office.",69,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_the_meeting the_manager burped in the corner_office.",69,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","Throughout_the_day the_cannon blasted on top_of the_castle.",70,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_show the_cannon blasted on top_of the_castle.",70,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","All_morning_long the_cart banged in the_cramped store_aisle.",71,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","A_moment_ago the_cart banged in the_cramped store_aisle.",71,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","All_afternoon_long the_dog dived in the_olympic-sized pool.",72,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_walk the_dog dived in the_olympic-sized pool.",72,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","All_night_long the_elephant snorted in the_grassy savannah.",73,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_dusk the_elephant snorted in the_grassy savannah.",73,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","Throughout_the_evening the_princess curtseyed in front_of the_guests.",74,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_dance the_princess curtseyed in front_of the_guests.",74,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","All_day_long the_alloy sparked atop the_hot anvil.",75,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","A_minute_ago the_alloy sparked atop the_hot anvil.",75,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","Throughout_the_day the_student sneezed in the_back_of the_classroom.",76,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_test the_student sneezed in the_back_of the_classroom.",76,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","For_45_seconds the_computer beeped in the_busy lab.",77,7,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc6","After_the_experiment the_computer beeped in the_busy lab.",77,8,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","For_ten_minutes the_professor called from the_cluttered office.",78,7,"makes sense?","yes = 1","no = 5",2,,,,
+"MovingProc6","After_the_meeting the_professor called from the_cluttered office.",78,8,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc7","It had_snowed heavily and_so the_janitor shoveled the_driveway.",80,9,"makes sense?","yes = 1","no = 5",1,"What did the janitor do?","Shovel the driveway","Shovel the sidewalk","L"
+"MovingProc8","Because the_building was full_of_ants the_exterminator spread huge_amounts of_insecticide.",81,9,"makes sense?","yes = 1","no = 5",1,"What was the building full of?","Termites","Ants","R"
+"MovingProc7","Before the_scientist submitted the_paper the_journal changed its_policy.",82,9,"makes sense?","yes = 1","no = 5",1,"What did the journal change?","Its policy","Its schedule","L"
+"MovingProc8","Before the_goal_keeper could catch the_ball Sam managed to_score_a_goal.",83,9,"makes sense?","yes = 1","no = 5",1,"Who managed to score a goal?","Max","Sam","R"
+"MovingProc7","Before the_flute_player started his_solo the_conductor had_cued him.",84,9,"makes sense?","yes = 1","no = 5",1,"Who started a solo?","The flute player","The saxophone player","L"
+"MovingProc7","The_old_lady slipped because the_boy had_heedlessly dropped a_banana_peel.",85,9,"makes sense?","yes = 1","no = 5",1,"What did the boy do?","Drop a candy bar wrapper","Drop a banana peel","R"
+"MovingProc8","Within_half_an_hour John ran four_miles and_then he got on_his_bike.",86,9,"makes sense?","yes = 1","no = 5",1,"How far did John run?","Four miles","Two miles","L"
+"MovingProc8","The_mountaineer reached the_top of_Mount_Everest even_though there_was a_storm coming.",87,9,"makes sense?","yes = 1","no = 5",1,"Who reached the top of Mount Everest?","The helicopter crew","The mountaineer","R"
+"MovingProc8","Twenty_minutes_ago the_athlete won the_race even_though he_was_in terrible pain.",88,9,"makes sense?","yes = 1","no = 5",1,"When did the athlete win the race?","Twenty minutes ago","Twenty years ago","L"
+"MovingProc8","Mr._Jones arrived at_the_airport when they_had_made the_final_announcement for_his_flight already.",89,9,"makes sense?","yes = 1","no = 5",1,"Where did Mr. Jones arrive?","At the train station","At the airport","R"
+"MovingProc9","When Betty entered_the_kitchen she_discovered that someone had_broken into the_house.",90,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc7","Because she was_tired Kate walked_home from_school very_slowly.",91,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","Whenever an_astronomer discovers a_new_star he may_choose a_name for_it.",92,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc7","When the_bassoonist left the_orchestra everyone was relieved.",93,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","The_groom hit the_best_man violently although the_latter had_apologized over_and_over_again.",94,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc9","Although nobody knows anything about this_disease the_politicians don't_think it_is_dangerous.",95,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","Before the_architect could_find the_construction_flaw the_bridge had already collapsed.",96,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","Shortly_after the_politician began his_speech the_angry_crowd threw rotten_vegetables at_him.",97,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","Before the_settlers reached the_Pacific_Ocean they had_to cross the_Sierra_Nevada.",98,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","After Mr._Carlson had_entered the_casino he played Black_Jack for_three_hours.",99,9,"makes sense?","yes = 1","no = 5",1,,,,
+"MovingProc8","A_big_crowd had gathered within_an_hour in_front_of the_hotel the_boy_group was_staying_at.",100,9,"makes sense?","yes = 1","no = 5",1,,,,

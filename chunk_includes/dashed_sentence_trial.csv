@@ -1,0 +1,7 @@
+id,aspect,adverb,np-shift,sentence,
+1,perfect,for,0,The_architect built the_monument for_two_years after the_city had_finally_provided the_money_for_it.,
+2,perfect,within,0,The_architect built the_monument within_two_years after the_city had_finally_provided the_money_for_it.,
+3,progressive,for,0,The_architect was_building the_monument for_two_years after the_city had_finally_provided the_money_for_it.,
+4,perfect,for,1,The_architect built for_two_years the_biggest_monument in_recent history.,
+5,perfect,within,1,The_architect built within_two_years the_biggest_monument in_recent history.,
+6,progressive,for,1,The_architect was_building for_two_years the_biggest_monument in_recent history.,
